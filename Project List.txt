@@ -1,2 +1,5 @@
-kabeers car c++ project:  kabproject.cpp 
-for practical :projectcar
+Beta           :  KABPROJE.CPP
+For practicals :  PROJECTC.CPP
+
+
+
