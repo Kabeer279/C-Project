@@ -26,7 +26,7 @@ Email : ahamedkabeer279@gmail.com
 ## Other Project Members
 
 * [Abinanth](https://www.instagram.com/abinanth05/)
-* [Akshay Mahadev](https://shields.io)
+* [Akshay Mahadev](#)
 
 ## Acknowledgements
 * Programming with C++ : Sumitha Arora
