@@ -1,14 +1,7 @@
 # CAR SALES AND SERVICES MANAGEMENT SYSTEM C++ PROJECT
- 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
-
 ### Built With
-
-
 * C++
 * IDE : [Turbo C++](https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/)
 #### Header Files used
@@ -24,12 +17,11 @@
 ```
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+*KS AHAMED KABEER 
+*[LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3B7ENY2z0sTxGYiKpY8NQTag%3D%3D)
+*Email : ahamedkabeer279@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Other Project Members
