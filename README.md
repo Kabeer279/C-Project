@@ -37,7 +37,7 @@ Email : ahamedkabeer279@gmail.com
 
 ## Acknowledgements
 * Programming with C++ : Sumitha Arora
-* Design Idea : Product Management System[Missing]
+* Cover Page Idea : Product Management System[Missing]
 * Teacher : Dr Gayathree Mam
 * Friends who supported me
 
