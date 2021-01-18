@@ -23,28 +23,17 @@ KS AHAMED KABEER
 
 Email : ahamedkabeer279@gmail.com
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
 ## Other Project Members
 
-* [Abinanth](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Abinanth](https://www.instagram.com/abinanth05/)
 * [Akshay Mahadev](https://shields.io)
 
-
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
+* Programming with C++ : Sumitha Arora
 * Design Idea : Product Management System[Missing]
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* Teacher : Dr Gayathree Mam
+* Friends who supported me
+
 
 
 
