@@ -15,6 +15,9 @@
 #include<string.h>
 #include<ctype.h>
 ```
+### Screenshots
+![Screenshot (89)](https://user-images.githubusercontent.com/54760122/104897478-6e969800-599e-11eb-9ffe-33e984b23956.png)
+
 <!-- CONTACT -->
 ## Contact
 KS AHAMED KABEER 
